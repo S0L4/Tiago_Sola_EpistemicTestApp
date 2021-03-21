@@ -1,0 +1,12 @@
+{
+  "name": "epistemicTesteApp",
+  "displayName": "epistemicTesteApp",
+  "expo": {
+    "name": "epistemicTesteApp",
+    "slug": "epistemicTesteApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
